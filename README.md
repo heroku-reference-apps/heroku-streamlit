@@ -1,4 +1,4 @@
-# heroku-streamlit 
+# heroku-streamlit
 
 Use this application to deploy [Streamlit](https://streamlit.io/) apps with Heroku.
 
